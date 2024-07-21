@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dexter54.github.io/static/css/main.3384d969.css",
+    "main.js": "/dexter54.github.io/static/js/main.eabac476.js",
+    "static/js/453.d855a71b.chunk.js": "/dexter54.github.io/static/js/453.d855a71b.chunk.js",
+    "static/media/ContactUs.gif": "/dexter54.github.io/static/media/ContactUs.1e5d97d4b72e346e9f8d.gif",
+    "index.html": "/dexter54.github.io/index.html",
+    "main.3384d969.css.map": "/dexter54.github.io/static/css/main.3384d969.css.map",
+    "main.eabac476.js.map": "/dexter54.github.io/static/js/main.eabac476.js.map",
+    "453.d855a71b.chunk.js.map": "/dexter54.github.io/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3384d969.css",
+    "static/js/main.eabac476.js"
+  ]
+}
